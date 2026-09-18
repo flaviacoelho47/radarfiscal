@@ -1,5 +1,12 @@
-# Radar Fiscal atualizado
+# Radar Fiscal - pacote completo v3
 
-Atualização incremental da versão Web pública. Preserva a identidade visual e o workflow existente. Adiciona cards para cinco portais, identificação clara da fonte em cada conteúdo e filtros por fonte e tema.
+Envie todo o conteúdo deste pacote para a raiz do repositório, substituindo os arquivos existentes. Preserve a pasta `.github`.
 
-Publique `/docs` via GitHub Pages e execute **Actions > Atualizar notícias > Run workflow** para gerar a primeira carga.
+Depois:
+1. Settings > Actions > General > Workflow permissions > Read and write permissions.
+2. Actions > Atualizar noticias > Run workflow.
+3. Aguarde a execução verde.
+4. Settings > Pages: branch `main`, pasta `/docs`.
+5. No site, pressione Ctrl+F5 uma vez.
+
+O botão **Recarregar painel** relê o JSON publicado sem cache. A captura imediata é iniciada em Actions > Run workflow.
