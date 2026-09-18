@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T17:30:29.188Z",
+  "updatedAt": "2026-09-18T17:47:27.545Z",
   "sources": [
     {
       "id": "contabeis",
@@ -54,11 +54,11 @@
       "brand": "CGIBS",
       "name": "CGIBS",
       "category": "IBS",
-      "description": "Notícias oficiais do Comitê Gestor do IBS.",
+      "description": "Noticias oficiais do Comite Gestor do IBS.",
       "logo": "https://www.google.com/s2/favicons?domain=cgibs.gov.br&sz=128",
       "portal": "https://www.cgibs.gov.br/noticias",
-      "count": 0,
-      "lastUpdated": "2026-09-18T17:30:28.690Z",
+      "count": 8,
+      "lastUpdated": "2026-09-18T17:47:26.919Z",
       "error": ""
     },
     {
@@ -66,12 +66,12 @@
       "brand": "JOTA",
       "name": "JOTA - Tributos",
       "category": "Tributos",
-      "description": "Análises sobre tributação, CARF e tribunais.",
+      "description": "Analises e noticias sobre tributacao, CARF e tribunais.",
       "logo": "https://www.google.com/s2/favicons?domain=jota.info&sz=128",
       "portal": "https://www.jota.info/tributos",
       "count": 0,
-      "lastUpdated": "2026-09-18T17:30:29.187Z",
-      "error": ""
+      "lastUpdated": "2026-09-18T17:47:27.544Z",
+      "error": "Pagina respondeu, mas nenhum link de noticia foi reconhecido."
     }
   ],
   "news": [
@@ -884,6 +884,126 @@
       "title": "Como declarar empréstimos bancários no Imposto de Renda",
       "summary": "Será que aquele dinheirinho a mais emprestado por parente precisa ser declarado? Saiba declarar empréstimos bancários no Imposto de Renda.",
       "url": "https://noticias.iob.com.br/emprestimos-bancarios-no-imposto-de-renda/",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "cb98a463d1f6ca10",
+      "capturedAt": "2026-09-18T17:47:24.435Z",
+      "sourceId": "cgibs",
+      "sourceBrand": "CGIBS",
+      "sourceName": "CGIBS",
+      "category": "IBS",
+      "title": "Guia Orientativo (PDF)",
+      "summary": "Guia Orientativo - Edição 3.0 - 19/06/2026 CGIBS Guia Orientativo para Impactos Administrativos da Reforma Tributária (.pdf 1,89 MBytes)",
+      "url": "https://www.cgibs.gov.br/guia-orientativo-pdf",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "cd81e07dd67df2d6",
+      "capturedAt": "2026-09-18T17:47:24.436Z",
+      "sourceId": "cgibs",
+      "sourceBrand": "CGIBS",
+      "sourceName": "CGIBS",
+      "category": "IBS",
+      "title": "Comunicados Oficiais",
+      "summary": "Cartilhas Documentos T cnicos",
+      "url": "https://www.cgibs.gov.br/comunicados-oficiais",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "946bdbabf7aa0f2f",
+      "capturedAt": "2026-09-18T17:47:24.436Z",
+      "sourceId": "cgibs",
+      "sourceBrand": "CGIBS",
+      "sourceName": "CGIBS",
+      "category": "IBS",
+      "title": "Documentos T cnicos",
+      "summary": "dos Oficiais V deos <li role=\"menu",
+      "url": "https://www.cgibs.gov.br/documentos-tecnicos",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "1f1c8e2342137a6c",
+      "capturedAt": "2026-09-18T17:47:24.436Z",
+      "sourceId": "cgibs",
+      "sourceBrand": "CGIBS",
+      "sourceName": "CGIBS",
+      "category": "IBS",
+      "title": "Editais de Chamamento P blico",
+      "summary": "EDITAL DE CHAMAMENTO PÚBLICO Nº 01/2026 Edital de Chamamento Público N 012026 – ANDIC (.pdf 657,38 KBytes) ANDIC - AMBIENTE NACIONAL DE DADOS E INFORMAÇÕES CADASTRAIS Publicado e disponibilizado no site do CGIBS em 11/09/2026 EDITAL DE CHA...",
+      "url": "https://www.cgibs.gov.br/editais-de-chamamento-publico",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "4b3b81d6e0871ab6",
+      "capturedAt": "2026-09-18T17:47:24.436Z",
+      "sourceId": "cgibs",
+      "sourceBrand": "CGIBS",
+      "sourceName": "CGIBS",
+      "category": "IBS",
+      "title": "Atos T cnicos Conjuntos",
+      "summary": "ATO TÉCNICO CONJUNTO RFB/CGIBS Nº 1, DE 31 DE JULHO DE 2026 AM Ato Tecnico Conjunto RFB e CGIBS Ratificacao NTs DFEs Revisao assinado (.pdf 505,12 KBytes) Publicado e disponibilizado no site do CGIBS em 01/08/2026 ATO TÉCNICO CONJUNTO RFB/C...",
+      "url": "https://www.cgibs.gov.br/atos-tecnicos-conjuntos",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "e5ef3a79a86149c7",
+      "capturedAt": "2026-09-18T17:47:24.436Z",
+      "sourceId": "cgibs",
+      "sourceBrand": "CGIBS",
+      "sourceName": "CGIBS",
+      "category": "IBS",
+      "title": "Portal de Servi os",
+      "summary": "PORTAL DE SERVIÇOS DO CGIBS Portal de Serviços do CGIBS",
+      "url": "https://www.cgibs.gov.br/portal-de-servicos",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "48388a2cd9c708e3",
+      "capturedAt": "2026-09-18T17:47:24.436Z",
+      "sourceId": "cgibs",
+      "sourceBrand": "CGIBS",
+      "sourceName": "CGIBS",
+      "category": "IBS",
+      "title": "Guia - Impactos Administrativos",
+      "summary": "cias Guia Orientativo (PDF)",
+      "url": "https://www.cgibs.gov.br/guia-orientativo-para-impactos-administrativos-da-reforma-tributaria",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "e8d14e28a8778b79",
+      "capturedAt": "2026-09-18T17:47:24.437Z",
+      "sourceId": "cgibs",
+      "sourceBrand": "CGIBS",
+      "sourceName": "CGIBS",
+      "category": "IBS",
+      "title": "Central de Conte do",
+      "summary": "Materiais sobre o Comitê Gestor do IBS e a implementação do novo imposto.",
+      "url": "https://www.cgibs.gov.br/central-de-conteudo",
       "publishedAt": "",
       "themes": [
         "Tributos Federais"
