@@ -1,1 +1,0 @@
-{"name":"radar-fiscal-publico","private":true,"type":"module","scripts":{"update":"node scripts/update-news.mjs"},"engines":{"node":">=20"}}
