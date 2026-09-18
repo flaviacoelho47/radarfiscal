@@ -1,12 +1,22 @@
-# Radar Fiscal - pacote completo v3
+# Radar Fiscal V4 Profissional
 
-Envie todo o conteúdo deste pacote para a raiz do repositório, substituindo os arquivos existentes. Preserve a pasta `.github`.
+## Publicação
+Envie todo o conteúdo para a raiz do repositório, substituindo os arquivos atuais. Em seguida execute **Actions > Atualizar noticias > Run workflow**.
 
-Depois:
-1. Settings > Actions > General > Workflow permissions > Read and write permissions.
-2. Actions > Atualizar noticias > Run workflow.
-3. Aguarde a execução verde.
-4. Settings > Pages: branch `main`, pasta `/docs`.
-5. No site, pressione Ctrl+F5 uma vez.
+## Atualização horária
+O workflow roda aos 17 minutos de cada hora (`17 * * * *`). O horário pode sofrer atraso conforme a fila do GitHub Actions.
 
-O botão **Recarregar painel** relê o JSON publicado sem cache. A captura imediata é iniciada em Actions > Run workflow.
+## Portal Contábeis
+A integração usa o RSS oficial do Fórum Tributos Federais:
+`https://www.contabeis.com.br/rss/forum/3/tributos-federais/`
+
+## Newsletter
+O formulário está pronto visualmente, mas precisa de um provedor seguro para armazenar consentimento, confirmar cadastro e enviar e-mails. Configure a URL do endpoint em `docs/newsletter-config.js`.
+
+Nunca coloque chave secreta no JavaScript público. Recomenda-se um serviço de newsletter com double opt-in e descadastro ou uma função serverless.
+
+## JOTA
+O card JOTA Tributos foi incluído. O coletor utiliza apenas títulos, trechos públicos e links. Conteúdo exclusivo/PRO continua sendo acessado somente no portal, conforme as permissões do assinante.
+
+## Recarregar painel
+O botão relê o JSON publicado sem cache. Ele não inicia um workflow, pois isso exigiria uma credencial administrativa exposta no site público.
