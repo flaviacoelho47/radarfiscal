@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T14:33:37.319Z",
+  "updatedAt": "2026-09-18T14:35:30.957Z",
   "sources": [
     {
       "id": "contabeis",
@@ -10,7 +10,7 @@
       "icon": "CT",
       "portal": "https://www.contabeis.com.br/forum/3/tributos-federais/",
       "count": 0,
-      "lastUpdated": "2026-09-18T14:33:33.541Z",
+      "lastUpdated": "2026-09-18T14:35:26.394Z",
       "error": ""
     },
     {
@@ -22,7 +22,7 @@
       "icon": "RF",
       "portal": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias",
       "count": 15,
-      "lastUpdated": "2026-09-18T14:33:34.226Z",
+      "lastUpdated": "2026-09-18T14:35:27.380Z",
       "error": ""
     },
     {
@@ -34,7 +34,7 @@
       "icon": "IOB",
       "portal": "https://noticias.iob.com.br/editoria/reforma-tributaria/direto-de-brasilia/",
       "count": 15,
-      "lastUpdated": "2026-09-18T14:33:34.955Z",
+      "lastUpdated": "2026-09-18T14:35:28.265Z",
       "error": ""
     },
     {
@@ -46,7 +46,7 @@
       "icon": "IOB",
       "portal": "https://noticias.iob.com.br/editoria/tributaria-fiscal/",
       "count": 15,
-      "lastUpdated": "2026-09-18T14:33:35.515Z",
+      "lastUpdated": "2026-09-18T14:35:28.844Z",
       "error": ""
     },
     {
@@ -58,7 +58,7 @@
       "icon": "IBS",
       "portal": "https://www.cgibs.gov.br/noticias",
       "count": 0,
-      "lastUpdated": "2026-09-18T14:33:37.319Z",
+      "lastUpdated": "2026-09-18T14:35:30.956Z",
       "error": ""
     }
   ],
