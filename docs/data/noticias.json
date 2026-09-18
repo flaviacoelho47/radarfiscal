@@ -1,1 +1,1033 @@
-{"updatedAt":"2026-09-18T16:00:00Z","total":0,"sources":[],"news":[],"usedCache":false}
+{
+  "updatedAt": "2026-09-18T16:51:59.422Z",
+  "total": 62,
+  "sources": [
+    {
+      "id": "contabeis",
+      "brand": "Contábeis",
+      "name": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "description": "Discussões e atualizações sobre tributos federais.",
+      "icon": "CT",
+      "logo": "https://www.google.com/s2/favicons?domain=contabeis.com.br&sz=128",
+      "portal": "https://www.contabeis.com.br/forum/3/tributos-federais/",
+      "rss": "https://www.contabeis.com.br/rss/forum/3/tributos-federais/",
+      "count": 18,
+      "lastUpdated": "2026-09-18T16:51:54.312Z",
+      "error": ""
+    },
+    {
+      "id": "receita",
+      "brand": "Receita Federal",
+      "name": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "description": "Comunicados e atualizações oficiais da Receita Federal.",
+      "icon": "RF",
+      "logo": "https://www.google.com/s2/favicons?domain=gov.br&sz=128",
+      "portal": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias",
+      "count": 15,
+      "lastUpdated": "2026-09-18T16:51:55.292Z",
+      "error": ""
+    },
+    {
+      "id": "iob-r",
+      "brand": "IOB",
+      "name": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "description": "Cobertura sobre IBS, CBS e transição tributária.",
+      "icon": "IOB",
+      "logo": "https://www.google.com/s2/favicons?domain=noticias.iob.com.br&sz=128",
+      "portal": "https://noticias.iob.com.br/editoria/reforma-tributaria/direto-de-brasilia/",
+      "count": 15,
+      "lastUpdated": "2026-09-18T16:51:56.205Z",
+      "error": ""
+    },
+    {
+      "id": "iob-f",
+      "brand": "IOB",
+      "name": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "description": "Obrigações, legislação e rotina fiscal.",
+      "icon": "IOB",
+      "logo": "https://www.google.com/s2/favicons?domain=noticias.iob.com.br&sz=128",
+      "portal": "https://noticias.iob.com.br/editoria/tributaria-fiscal/",
+      "count": 15,
+      "lastUpdated": "2026-09-18T16:51:56.867Z",
+      "error": ""
+    },
+    {
+      "id": "cgibs",
+      "brand": "CGIBS",
+      "name": "CGIBS",
+      "category": "IBS",
+      "description": "Notícias oficiais do Comitê Gestor do IBS.",
+      "icon": "IBS",
+      "logo": "https://www.google.com/s2/favicons?domain=cgibs.gov.br&sz=128",
+      "portal": "https://www.cgibs.gov.br/noticias",
+      "count": 0,
+      "lastUpdated": "2026-09-18T16:51:58.669Z",
+      "error": ""
+    },
+    {
+      "id": "jota",
+      "brand": "JOTA",
+      "name": "JOTA - Tributos",
+      "category": "Tributos",
+      "description": "Análises e notícias sobre tributação, CARF e tribunais.",
+      "icon": "JOTA",
+      "logo": "https://www.google.com/s2/favicons?domain=jota.info&sz=128",
+      "portal": "https://www.jota.info/tributos",
+      "count": 0,
+      "lastUpdated": "2026-09-18T16:51:59.421Z",
+      "error": ""
+    }
+  ],
+  "news": [
+    {
+      "id": "fa459a042ef36f7e",
+      "capturedAt": "2026-09-18T16:51:54.310Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "opcao simei",
+      "summary": "Pessoal Bom dia, como estão lidando com a opção para o simei estou com 02 situações empresa do simples nacional, quer voltar para o simei, entro na pagina 1 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415653/opcao-simei/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415653/opcao-simei/",
+      "publishedAt": "Fri, 18 Sep 2026 12:30:10 -0300",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "0a7e8c25f1e26a3d",
+      "capturedAt": "2026-09-18T16:51:54.311Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Opção desenquadramento SIMPLES NACIONAL E INGRESSO PRESUMIDO OU REAL ???",
+      "summary": "Prezados, Uma empresa optante pelo Simples Nacional pretende mudar voluntariamente para o Lucro Presumido ou Lucro Real a partir de 01/01/2027. A exclusão 3 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415648/opcao-desenquadramento-simples-nacional-e-ingresso-presumido",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415648/opcao-desenquadramento-simples-nacional-e-ingresso-presumido-ou-real/",
+      "publishedAt": "Fri, 18 Sep 2026 12:28:33 -0300",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "6ae199e7b5af137a",
+      "capturedAt": "2026-09-18T16:51:54.311Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Opção pelo Simples Nacional 2027",
+      "summary": "Pessoal, bom dia. Mais alguém está enfrentando dificuldades com o pedido de opção pelo Simples Nacional 2027? Aqui só dá erro toda hora, ou trava nos 67%. 2 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415650/opcao-pelo-simples-nacional-2027/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415650/opcao-pelo-simples-nacional-2027/",
+      "publishedAt": "Fri, 18 Sep 2026 11:06:26 -0300",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "408789ac627db357",
+      "capturedAt": "2026-09-18T16:51:54.311Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "PIS/COFINS/CSLL Retidos na Nota Fiscal de Serviço (NFS)",
+      "summary": "Bom dia a todos! Aqui no escritório, tivemos um caso em que um prestador de serviços emitiu uma nota fiscal para uma empresa tomadora, com retenção de PIS, 9 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415607/pis-cofins-csll-retidos-na-nota-fiscal-de-servico-nfs/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415607/pis-cofins-csll-retidos-na-nota-fiscal-de-servico-nfs/",
+      "publishedAt": "Fri, 18 Sep 2026 10:59:09 -0300",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "50ef81a8d53bb32e",
+      "capturedAt": "2026-09-18T16:51:54.311Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Desenquadramento do MEI",
+      "summary": "Caros colegas boa tarde! No caso de desenquadramento do MEI retroativo a partir de Janeiro/2026, além de pagar os impostos sobre o faturamento que é o de praxe, 8 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415431/desenquadramento-do-mei/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415431/desenquadramento-do-mei/",
+      "publishedAt": "Fri, 18 Sep 2026 10:56:27 -0300",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "ca782966e3348aed",
+      "capturedAt": "2026-09-18T16:51:54.311Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "PIS/COFINS sobre rendimento de aplicação financeira CDB",
+      "summary": "Prezados, bom dia! Com a implementação da Reforma Tributária, como ficará a tributação incidente sobre os rendimentos de aplicações financeiras? Atualmente, 1 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415638/pis-cofins-sobre-rendimento-de-aplicacao-financeira-cdb/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415638/pis-cofins-sobre-rendimento-de-aplicacao-financeira-cdb/",
+      "publishedAt": "Thu, 17 Sep 2026 15:10:05 -0300",
+      "themes": [
+        "Reforma Tributária",
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "09d4294bbd3b3eb1",
+      "capturedAt": "2026-09-18T16:51:54.311Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Restituição simples nacional ( falta de pagamento )",
+      "summary": "Alguém tem alguma novidade sobre o pagamento da restituições do simples nacional sou de sp. Tenho mais de 10 empresas e desde o mês 9 , e ainda nenhuma foi paga 241 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/405014/restituicao-simples-nacional-falta-de-pagamento/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/405014/restituicao-simples-nacional-falta-de-pagamento/",
+      "publishedAt": "Thu, 17 Sep 2026 09:46:26 -0300",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "231cb71c2df9503d",
+      "capturedAt": "2026-09-18T16:51:54.311Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "NF MEI",
+      "summary": "Bom dia a todos caros colegas. Gostaria de tirar uma dúvida com relação ao MEI em 2027. Eu estava lendo e vi que a partir de janeiro de 2027 os MEI devem emitir 0 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415636/nf-mei/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415636/nf-mei/",
+      "publishedAt": "Thu, 17 Sep 2026 09:27:56 -0300",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "8e2754e5c720238d",
+      "capturedAt": "2026-09-18T16:51:54.312Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Parcelamento FGTS - empresa baixada",
+      "summary": "Olá! Queria saber se é possível retirar as parcelas do parcelamento no FGTS digital depois que a empresa é baixada. Precisamos fazer um parcelamento para 2 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415634/parcelamento-fgts-empresa-baixada/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415634/parcelamento-fgts-empresa-baixada/",
+      "publishedAt": "Thu, 17 Sep 2026 08:58:56 -0300",
+      "themes": [
+        "Trabalhista"
+      ]
+    },
+    {
+      "id": "9b5fdedd6dd399c5",
+      "capturedAt": "2026-09-18T16:51:54.312Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Distribuição de Lucro - IRRF",
+      "summary": "A regra prevista no art. 786 do Decreto nº 9.580/2018, da fonte pagadora assumir o ônus do imposto sobre a renda pode ser aplicada ao IRRF de 10% sobre lucros 0 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415633/distribuicao-de-lucro-irrf/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415633/distribuicao-de-lucro-irrf/",
+      "publishedAt": "Thu, 17 Sep 2026 08:17:21 -0300",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "7eeb40cd51c88392",
+      "capturedAt": "2026-09-18T16:51:54.312Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Empresa - pendencias RFB",
+      "summary": "Boa noite. A empresa foi desenquadrada do MEI e, posteriormente, excluída do Simples Nacional em 31/12/2024, passando a ser tributada pelo regime normal, na modalidade 1 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415629/empresa-pendencias-rfb/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415629/empresa-pendencias-rfb/",
+      "publishedAt": "Wed, 16 Sep 2026 19:41:31 -0300",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "d04ad99d8b529bd0",
+      "capturedAt": "2026-09-18T16:51:54.312Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "PARCELAMENTO SIMPLES NACIONAL",
+      "summary": "Boa tarde pessoal!. Gostaria de uma informação e serei grato a quem puder me ajudar com algum esclarecimento... Uma empresa do simples nacional ME que tem parcelamento 4 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/402467/parcelamento-simples-nacional/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/402467/parcelamento-simples-nacional/",
+      "publishedAt": "Wed, 16 Sep 2026 19:03:10 -0300",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "20872148fa6fb919",
+      "capturedAt": "2026-09-18T16:51:54.312Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Ferramente que cruza CNAE x CTN X CST X cClassTrib X CIndOP",
+      "summary": "Pessoal, criei uma ferramenta grátis e simples para consultar e relacionar códigos usados na NFS-e e na Reforma Tributária. Ela permite cruzar CNAE x CTN x NBS 4 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415465/ferramente-que-cruza-cnae-x-ctn-x-cst-x-cclasstrib-x-ci",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415465/ferramente-que-cruza-cnae-x-ctn-x-cst-x-cclasstrib-x-cindop/",
+      "publishedAt": "Wed, 16 Sep 2026 15:19:04 -0300",
+      "themes": [
+        "Reforma Tributária",
+        "NF-e/SPED"
+      ]
+    },
+    {
+      "id": "4dede5b06f7d5de1",
+      "capturedAt": "2026-09-18T16:51:54.312Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "capital social",
+      "summary": "Bom dia amados amigos, por meio deste para pedir avaliação dos caros colegas, sobre uma empresa a qual estamos tomando a direção da mesma: pergunta é a empresa 4 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415527/capital-social/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415527/capital-social/",
+      "publishedAt": "Wed, 16 Sep 2026 14:35:29 -0300",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "b2f64ea56dbe01c3",
+      "capturedAt": "2026-09-18T16:51:54.312Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "PLANILHA LUCRO PRESUMIDO 2026 - PARA ESTUDO",
+      "summary": "MEU DRVE - PLANILHA LP PARA ESTUDO 2026 Pessoal, (link ao lado) bom dia, gostaria de disponibilizar uma planilha para estudo ref 2026. A partir do trimestre 0 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415618/planilha-lucro-presumido-2026-para-estudo/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415618/planilha-lucro-presumido-2026-para-estudo/",
+      "publishedAt": "Wed, 16 Sep 2026 10:49:28 -0300",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "fcf6cab2402685bd",
+      "capturedAt": "2026-09-18T16:51:54.312Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Pis e COFINS cambio",
+      "summary": "Boa tarde,Temos recolhimentos de PIS e COFINS sobre operações de câmbio cuja apuração é diária. Em determinados dias ocorrem operações com mais de um fornecedor 0 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415616/pis-e-cofins-cambio/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415616/pis-e-cofins-cambio/",
+      "publishedAt": "Wed, 16 Sep 2026 09:58:57 -0300",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "7d85d416c608d41d",
+      "capturedAt": "2026-09-18T16:51:54.312Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "EFD-REINF E DCTFWEB",
+      "summary": "Boa tarde! Estou com uma situação de uma empresa concomitante anexo III e IV que prestou serviço no mês 04 e 05 e teve retenção de 11% na nota fiscal de 2 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415611/efd-reinf-e-dctfweb/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415611/efd-reinf-e-dctfweb/",
+      "publishedAt": "Wed, 16 Sep 2026 08:13:54 -0300",
+      "themes": [
+        "Tributos Federais",
+        "NF-e/SPED"
+      ]
+    },
+    {
+      "id": "ab3cc1981e039be5",
+      "capturedAt": "2026-09-18T16:51:54.312Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Responsabilidas fiscais Terceiro Setor",
+      "summary": "Boa noite Estou ampliando meu escopo de trabalho e pegando regularização de associações, gostaria de saber se alguém pode me falar quais são as responsabilidades 2 Respostas Leia mais em https://www.contabeis.com.br/forum/tributos-federais/415603/responsabilidas-fiscais-terceiro-setor/",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/415603/responsabilidas-fiscais-terceiro-setor/",
+      "publishedAt": "Tue, 15 Sep 2026 18:36:14 -0300",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "8161bcc56b4ccab3",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Aviso de Pauta",
+      "summary": "Institucional ",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/aviso-de-pauta",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "61f758330b836457",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Receita Federal apreende quase R$ 13 milhões em mercadorias irregulares em um único caminhão",
+      "summary": "Combate ao contrabando  <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-apreende-quase-r-13-milhoes-em-mercadorias-irregulares-em-um-unico-caminhao/logo-defeso-site.jpg/@@images/image/mini\" alt=\"Receita Federal apreende quase R$ 13 ",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-apreende-quase-r-13-milhoes-em-mercadorias-irregulares-em-um-unico-caminhao",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "347162aaa129f37a",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Fauna fitness: leão e raposa impressos em 3D escondiam medicamentos para emagrecer",
+      "summary": "Combate ao Contrabando  <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/fauna-fitness-leao-e-raposa-impressos-em-3d-escondiam-medicamentos-para-emagrecer/banner-defeso-eleitoral-site.jpg/@@images/image/mini\" alt=\"Fauna fitness: leão e raposa impres",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/fauna-fitness-leao-e-raposa-impressos-em-3d-escondiam-medicamentos-para-emagrecer",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "4062e326168fe243",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Aviso de Pauta: Força-Tarefa - Reforma Tributária",
+      "summary": "Institucional ",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/aviso-de-pauta-forca-tarefa-reforma-tributaria",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária"
+      ]
+    },
+    {
+      "id": "57dc7217f9934f3c",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Receita Federal participa da Operação Última Chamada",
+      "summary": "Combate à sonegação ",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/2a-fase-da-operacao-ultima-chamada-amplia-fiscalizacao-sobre-comercio-de-celulares-irregulares",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "1621ace30bf7094c",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Receita Federal deflagra a Operação Termidor",
+      "summary": "Combate à sonegação ",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-deflagra-a-operacao-termidor",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "25be0c7098694e27",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Receita Federal retém mais de 250 kg de substância análoga à maconha na Aduana da Ponte Internacional da Amizade",
+      "summary": "Combate ao contrabando  <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-retem-mais-de-250-kg-de-substancia-analoga-a-maconha-na-aduana-da-ponte-internacional-da-amizade/logo-defeso-site.jpg/@@images/image/mini\" alt=\"Receita Federal ",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-retem-mais-de-250-kg-de-substancia-analoga-a-maconha-na-aduana-da-ponte-internacional-da-amizade",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "6c325ca6b4d99fe7",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Receita Federal indica oportunidade de regularização de créditos de PIS/Pasep e Cofins",
+      "summary": "Serviços  <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-indica-oportunidade-de-regularizacao-de-creditos-de-pis-pasep-e-cofins/banner.jpg/@@images/image/mini\" alt=\"Receita Federal indica oportunidade de regularização de créditos d",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-indica-oportunidade-de-regularizacao-de-creditos-de-pis-pasep-e-cofins",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "441bc2a76b3e436c",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Receita Federal retém aproximadamente 300 kg de substância análoga à maconha na Ponte da Amizade",
+      "summary": "Combate ao Contrabando  <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-retem-aproximadamente-300-kg-de-substancia-analoga-a-maconha-na-ponte-da-amizade/banner.jpg/@@images/image/mini\" alt=\"Receita Federal retém aproximadamente 300 ",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-retem-aproximadamente-300-kg-de-substancia-analoga-a-maconha-na-ponte-da-amizade",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "0ed216c4bf4cfd5f",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Receita federal em Joaçaba em operação conjunta com PMRv-SC apreende cerca de 7 mil garrafas de vinho em Abelardo Luz (SC)",
+      "summary": "Combate ao Contrabando  <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-em-joacaba-em-operacao-conjunta-com-pmrv-sc-apreende-cerca-de-7-mil-garrafas-de-vinho-em-abelardo-luz-sc/banner.jpg/@@images/image/mini\" alt=\"Receita federal em",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-em-joacaba-em-operacao-conjunta-com-pmrv-sc-apreende-cerca-de-7-mil-garrafas-de-vinho-em-abelardo-luz-sc",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "312a493589146677",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Receita Federal publica nova documentação técnica das APIs de apuração da CBS",
+      "summary": "Serviços  <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-publica-nova-documentacao-tecnica-das-apis-de-apuracao-de-cbs/banner-defeso-eleitoral-site.jpg/@@images/image/mini\" alt=\"Receita Federal publica nova documentação técnica das",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-publica-nova-documentacao-tecnica-das-apis-de-apuracao-de-cbs",
+      "publishedAt": "",
+      "themes": [
+        "IBS/CBS",
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "5e603782d85eb011",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Quando Cada Minuto Conta: Receita Federal e Anvisa garantem liberação emergencial de medicamento em Guarulhos",
+      "summary": "Institucional  <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/quando-cada-minuto-conta-receita-federal-e-anvisa-garantem-liberacao-emergencial-de-medicamento-em-guarulhos/banner-defeso-eleitoral-site.jpg/@@images/image/mini\" alt=\"Quando Cada Minut",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/quando-cada-minuto-conta-receita-federal-e-anvisa-garantem-liberacao-emergencial-de-medicamento-em-guarulhos",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "7bab4768c557458c",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Receita Federal lança novos indicadores mensais e regionais no Painel Receita",
+      "summary": "Serviços  <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-lanca-novos-indicadores-mensais-e-regionais-no-painel-receita/banner-defeso-eleitoral-site.jpg/@@images/image/mini\" alt=\"Receita Federal lança novos indicadores mensais e reg",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-lanca-novos-indicadores-mensais-e-regionais-no-painel-receita",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "bba2f53f48eae78a",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "DeRE - Receita Federal publica versão 1.2.0 da documentação técnica da DeRE",
+      "summary": "Serviços  <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/dere-receita-federal-publica-versao-1-2-0-da-documentacao-tecnica-da-dere/banner-defeso-eleitoral-site.jpg/@@images/image/mini\" alt=\"DeRE - Receita Federal publica versão 1.2.0 da documentaç",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/dere-receita-federal-publica-versao-1-2-0-da-documentacao-tecnica-da-dere",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "e4883f4b06d571fb",
+      "capturedAt": "2026-09-18T16:51:55.292Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Receita Federal inicia processo de contratação de instituição para executar concurso público",
+      "summary": "Institucional  <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-inicia-processo-de-contratacao-de-instituicao-para-executar-concurso-publico/banner-defeso-eleitoral-site.jpg/@@images/image/mini\" alt=\"Receita Federal inicia processo d",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-inicia-processo-de-contratacao-de-instituicao-para-executar-concurso-publico",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "cc5ad0f09ad2c45b",
+      "capturedAt": "2026-09-18T16:51:56.204Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Reforma: conheça o Programa Nacional de Conformidade Tributária",
+      "summary": " 17/08/2026",
+      "url": "https://noticias.iob.com.br/reforma-programa-nacional-de-conformidade-tributaria/",
+      "publishedAt": "17/08/2026",
+      "themes": [
+        "Reforma Tributária"
+      ]
+    },
+    {
+      "id": "9bb37c9dd5032d9d",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "NFS-e: obrigatoriedade a empresas do Simples Nacional é adiada",
+      "summary": " <a href=\"https://noticias.io",
+      "url": "https://noticias.iob.com.br/nfs-e-simples-nacional/",
+      "publishedAt": "",
+      "themes": [
+        "Simples Nacional",
+        "NF-e/SPED"
+      ]
+    },
+    {
+      "id": "105700ed4fee6aba",
+      "capturedAt": "2026-09-18T16:51:56.204Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Reforma Tributária: rejeição de notas sem IBS e CBS é adiada",
+      "summary": " <a href=\"https://noticias.io",
+      "url": "https://noticias.iob.com.br/reforma-adiamento-rejeicao-notas-ibs-cbs/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária",
+        "IBS/CBS"
+      ]
+    },
+    {
+      "id": "18ba3480c176c1da",
+      "capturedAt": "2026-09-18T16:51:56.204Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Reforma Tributária: CNPJ e DF-e para Pessoas Físicas são adiados para 2027",
+      "summary": " <a href=\"https://noticias.io",
+      "url": "https://noticias.iob.com.br/reforma-tributaria-cnpj-dfe-pessoas-fisicas/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária",
+        "NF-e/SPED"
+      ]
+    },
+    {
+      "id": "5ab4dffa06ee0480",
+      "capturedAt": "2026-09-18T16:51:56.204Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "NFS-e nacional: municípios sem adesão correm risco de bloqueio",
+      "summary": " /* custom css */ .tdi_65, .tdi_65 .tdc-columns{ min-height: 0; }.tdi_65, .tdi_65 .tdc-columns{",
+      "url": "https://noticias.iob.com.br/reforma-nfs-e-fernando-de-noronha-bloqueio/",
+      "publishedAt": "",
+      "themes": [
+        "NF-e/SPED"
+      ]
+    },
+    {
+      "id": "3ebcc63f6335ab70",
+      "capturedAt": "2026-09-18T16:51:56.204Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Reforma Tributária: publicados os regulamentos da CBS e do IBS",
+      "summary": " 30/04",
+      "url": "https://noticias.iob.com.br/reforma-tributaria-regulamentos-cbs-ibs/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária",
+        "IBS/CBS"
+      ]
+    },
+    {
+      "id": "a0866fe6286f4b2f",
+      "capturedAt": "2026-09-18T16:51:56.204Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Presidente sanciona PLP 108/2024 e institui o Comitê Gestor do IBS",
+      "summary": " 14/01",
+      "url": "https://noticias.iob.com.br/presidente-sanciona-plp-108-2024-e-institui-o-comite-gestor-do-ibs/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária",
+        "IBS/CBS"
+      ]
+    },
+    {
+      "id": "d39ec68c5eeffcb5",
+      "capturedAt": "2026-09-18T16:51:56.204Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Câmara aprova texto-base do 2º projeto de regulamentação da Reforma Tributária",
+      "summary": " 16/12",
+      "url": "https://noticias.iob.com.br/camara-2o-projeto-reforma-tributaria/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária"
+      ]
+    },
+    {
+      "id": "7d8d8588b8c7bacc",
+      "capturedAt": "2026-09-18T16:51:56.204Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Reforma Tributária: Senado aprova PLP 108/2024, e texto volta para Câmara",
+      "summary": " 01/10",
+      "url": "https://noticias.iob.com.br/reforma-tributaria-senado-plp-108-2024/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária"
+      ]
+    },
+    {
+      "id": "5a7c018621f070b6",
+      "capturedAt": "2026-09-18T16:51:56.204Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Reforma Tributária: Plenário do Senado deve votar PLP 108/2024 nesta terça",
+      "summary": " 29/09",
+      "url": "https://noticias.iob.com.br/reforma-plenario-senado-plp-108-2024/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária"
+      ]
+    },
+    {
+      "id": "c0ffddb50e8f50e9",
+      "capturedAt": "2026-09-18T16:51:56.204Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Reforma Tributária: CCJ aprova PLP 108/2024, e texto vai a Plenário",
+      "summary": " 19/09",
+      "url": "https://noticias.iob.com.br/reforma-tributaria-ccj-plp-108-2024/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária"
+      ]
+    },
+    {
+      "id": "27d512a59b78c5b7",
+      "capturedAt": "2026-09-18T16:51:56.204Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Reforma Tributária: Comitê do IBS lança edital para contratar sistema de arrecadação",
+      "summary": " 10/07",
+      "url": "https://noticias.iob.com.br/reforma-tributaria-ibs-sistema-de-arrecadacao/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária",
+        "IBS/CBS"
+      ]
+    },
+    {
+      "id": "c5ce374d27f01ad1",
+      "capturedAt": "2026-09-18T16:51:56.205Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "IOB integra grupo piloto da CBS na Reforma Tributária",
+      "summary": " 02/07",
+      "url": "https://noticias.iob.com.br/iob-grupo-piloto-da-cbs-na-reforma-tributaria/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária",
+        "IBS/CBS"
+      ]
+    },
+    {
+      "id": "007f08bea579e020",
+      "capturedAt": "2026-09-18T16:51:56.205Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Presidente sanciona 1º projeto da Reforma Tributária",
+      "summary": " 16/01",
+      "url": "https://noticias.iob.com.br/presidente-reforma-tributaria/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária"
+      ]
+    },
+    {
+      "id": "5eee9a9257be119c",
+      "capturedAt": "2026-09-18T16:51:56.205Z",
+      "sourceId": "iob-r",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Reforma Tributária",
+      "category": "Reforma Tributária",
+      "title": "Câmara aprova 1º projeto da Reforma, e texto vai para sanção presidencial",
+      "summary": " 18/12",
+      "url": "https://noticias.iob.com.br/camara-aprova-1o-projeto-da-reforma/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária"
+      ]
+    },
+    {
+      "id": "7058cb6f8c217e0b",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Saiba todas as mudanças que impactam o Simples Nacional até o fim de 2026",
+      "summary": " 18/08/2026",
+      "url": "https://noticias.iob.com.br/mudancas-simples-nacional/",
+      "publishedAt": "18/08/2026",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "ef6098ad74b2cef6",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Curso de substituição tributária ajuda no ressarcimento do ICMS",
+      "summary": " <a href=\"https://noticias.io",
+      "url": "https://noticias.iob.com.br/curso-de-substituicao-tributaria/",
+      "publishedAt": "",
+      "themes": [
+        "ICMS"
+      ]
+    },
+    {
+      "id": "1c635236f1ed389f",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Opção pelo Simples Nacional 2027 já é agora em setembro",
+      "summary": " <a href=\"https://noticias.io",
+      "url": "https://noticias.iob.com.br/opcao-simples-nacional-antecipada/",
+      "publishedAt": "",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "c6756cce2bd8ad5a",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Cursos tributários: ICMS, Sped Fiscal e Reforma Tributária",
+      "summary": " /* custom css */ .tdi_65, .tdi_65 .tdc-columns{ min-height: 0; }.tdi_65, .tdi_65 .tdc-columns{",
+      "url": "https://noticias.iob.com.br/cursos-tributarios/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária",
+        "ICMS",
+        "NF-e/SPED"
+      ]
+    },
+    {
+      "id": "38c800535a55a9ad",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Curso de offshore ensina novas regras de tributação para estes investimentos",
+      "summary": " 29/07",
+      "url": "https://noticias.iob.com.br/curso-de-offshore/",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "e1a6e3617d20090a",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Saiba como curso prepara toda a sua equipe para a Reforma Tributária",
+      "summary": " 17/07",
+      "url": "https://noticias.iob.com.br/curso-equipe-reforma-tributaria/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária"
+      ]
+    },
+    {
+      "id": "3ef93a952c8ba97e",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Reforma Tributária: NFS-e recebe atualizações no Simples, locação e mais",
+      "summary": " 12/06",
+      "url": "https://noticias.iob.com.br/reforma-tributaria-nfs-e-simples-locacao/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária",
+        "NF-e/SPED"
+      ]
+    },
+    {
+      "id": "c971afbf191889a2",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Curso de formação de faturista: aprenda regras para emitir NF-e",
+      "summary": " 09/06",
+      "url": "https://noticias.iob.com.br/curso-de-formacao-de-faturista/",
+      "publishedAt": "",
+      "themes": [
+        "NF-e/SPED"
+      ]
+    },
+    {
+      "id": "61d2fc1abe77a215",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Curso da ECD 2026 é fundamental para uma entrega segura e assertiva",
+      "summary": " 08/06",
+      "url": "https://noticias.iob.com.br/curso-ecd/",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "daf61beb439ab051",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Entenda os impactos da Reforma Tributária no setor de serviços",
+      "summary": " 29/05",
+      "url": "https://noticias.iob.com.br/reforma-tributaria-setor-de-servicos/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária"
+      ]
+    },
+    {
+      "id": "31d7a78fa1c42c19",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Como declarar empréstimos bancários no Imposto de Renda",
+      "summary": " 21/05",
+      "url": "https://noticias.iob.com.br/emprestimos-bancarios-no-imposto-de-renda/",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "71c8a0d25526fe26",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Imposto de Renda: como declarar heranças, doações e ações judiciais?",
+      "summary": " 21/05",
+      "url": "https://noticias.iob.com.br/imposto-de-renda-doacoes/",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "fd93aee3e6ee1bf3",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Declaração anual do MEI: fique atento ao prazo e confira 5 principais erros",
+      "summary": " 21/05",
+      "url": "https://noticias.iob.com.br/declaracao-anual-do-mei-erros/",
+      "publishedAt": "",
+      "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "b08a09a358c70e7e",
+      "capturedAt": "2026-09-18T16:51:56.867Z",
+      "sourceId": "iob-f",
+      "sourceBrand": "IOB",
+      "sourceName": "IOB - Tributária/Fiscal",
+      "category": "Tributário e Fiscal",
+      "title": "Reforma: notas sem IBS e CBS serão rejeitadas a partir de agosto",
+      "summary": " 20/05",
+      "url": "https://noticias.iob.com.br/reforma-notas-ibs-cbs-rejeitadas/",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária",
+        "IBS/CBS"
+      ]
+    }
+  ],
+  "usedCache": false
+}
