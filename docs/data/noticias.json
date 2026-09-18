@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:06:00.159Z",
+  "updatedAt": "2026-09-18T22:31:11.930Z",
   "sources": [
     {
       "id": "contabeis",
@@ -58,7 +58,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=cgibs.gov.br&sz=128",
       "portal": "https://www.cgibs.gov.br/noticias",
       "count": 8,
-      "lastUpdated": "2026-09-18T18:05:59.714Z",
+      "lastUpdated": "2026-09-18T22:31:11.328Z",
       "error": ""
     },
     {
@@ -70,7 +70,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=jota.info&sz=128",
       "portal": "https://www.jota.info/tributos",
       "count": 0,
-      "lastUpdated": "2026-09-18T18:06:00.158Z",
+      "lastUpdated": "2026-09-18T22:31:11.930Z",
       "error": "Pagina respondeu, mas nenhum link de noticia foi reconhecido."
     }
   ],
@@ -891,7 +891,7 @@
     },
     {
       "id": "cb98a463d1f6ca10",
-      "capturedAt": "2026-09-18T18:05:57.456Z",
+      "capturedAt": "2026-09-18T22:31:08.983Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -906,7 +906,7 @@
     },
     {
       "id": "cd81e07dd67df2d6",
-      "capturedAt": "2026-09-18T18:05:57.456Z",
+      "capturedAt": "2026-09-18T22:31:08.984Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -921,7 +921,7 @@
     },
     {
       "id": "946bdbabf7aa0f2f",
-      "capturedAt": "2026-09-18T18:05:57.456Z",
+      "capturedAt": "2026-09-18T22:31:08.984Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -936,7 +936,7 @@
     },
     {
       "id": "1f1c8e2342137a6c",
-      "capturedAt": "2026-09-18T18:05:57.457Z",
+      "capturedAt": "2026-09-18T22:31:08.984Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -951,7 +951,7 @@
     },
     {
       "id": "4b3b81d6e0871ab6",
-      "capturedAt": "2026-09-18T18:05:57.457Z",
+      "capturedAt": "2026-09-18T22:31:08.984Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -966,7 +966,7 @@
     },
     {
       "id": "e5ef3a79a86149c7",
-      "capturedAt": "2026-09-18T18:05:57.457Z",
+      "capturedAt": "2026-09-18T22:31:08.984Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -981,7 +981,7 @@
     },
     {
       "id": "48388a2cd9c708e3",
-      "capturedAt": "2026-09-18T18:05:57.457Z",
+      "capturedAt": "2026-09-18T22:31:08.984Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -996,7 +996,7 @@
     },
     {
       "id": "e8d14e28a8778b79",
-      "capturedAt": "2026-09-18T18:05:57.457Z",
+      "capturedAt": "2026-09-18T22:31:08.984Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
