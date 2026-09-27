@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T17:09:35.788Z",
+  "updatedAt": "2026-09-27T17:08:49.430Z",
   "sources": [
     {
       "id": "contabeis",
@@ -10,7 +10,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=contabeis.com.br&sz=128",
       "portal": "https://www.contabeis.com.br/forum/3/tributos-federais/",
       "count": 15,
-      "lastUpdated": "2026-09-26T17:09:16.972Z",
+      "lastUpdated": "2026-09-27T17:08:28.923Z",
       "error": ""
     },
     {
@@ -22,7 +22,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=gov.br&sz=128",
       "portal": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias",
       "count": 15,
-      "lastUpdated": "2026-09-26T17:09:18.309Z",
+      "lastUpdated": "2026-09-27T17:08:30.781Z",
       "error": ""
     },
     {
@@ -34,7 +34,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=noticias.iob.com.br&sz=128",
       "portal": "https://noticias.iob.com.br/editoria/reforma-tributaria/direto-de-brasilia/",
       "count": 15,
-      "lastUpdated": "2026-09-26T17:09:23.747Z",
+      "lastUpdated": "2026-09-27T17:08:36.337Z",
       "error": ""
     },
     {
@@ -46,7 +46,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=noticias.iob.com.br&sz=128",
       "portal": "https://noticias.iob.com.br/editoria/tributaria-fiscal/",
       "count": 15,
-      "lastUpdated": "2026-09-26T17:09:28.439Z",
+      "lastUpdated": "2026-09-27T17:08:40.879Z",
       "error": ""
     },
     {
@@ -58,7 +58,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=cgibs.gov.br&sz=128",
       "portal": "https://www.cgibs.gov.br/noticias",
       "count": 13,
-      "lastUpdated": "2026-09-26T17:09:33.581Z",
+      "lastUpdated": "2026-09-27T17:08:46.861Z",
       "error": ""
     },
     {
@@ -70,14 +70,14 @@
       "logo": "https://www.google.com/s2/favicons?domain=jota.info&sz=128",
       "portal": "https://www.jota.info/tributos",
       "count": 6,
-      "lastUpdated": "2026-09-26T17:09:35.787Z",
+      "lastUpdated": "2026-09-27T17:08:49.429Z",
       "error": ""
     }
   ],
   "news": [
     {
       "id": "7cde9d32f847225d",
-      "capturedAt": "2026-09-26T17:09:15.962Z",
+      "capturedAt": "2026-09-27T17:08:27.599Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -92,7 +92,7 @@
     },
     {
       "id": "b6dc643ca123ad17",
-      "capturedAt": "2026-09-26T17:09:15.962Z",
+      "capturedAt": "2026-09-27T17:08:27.600Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -108,7 +108,7 @@
     },
     {
       "id": "b6fcbb1a15b4b519",
-      "capturedAt": "2026-09-26T17:09:15.962Z",
+      "capturedAt": "2026-09-27T17:08:27.600Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -123,7 +123,7 @@
     },
     {
       "id": "477d361213fa2108",
-      "capturedAt": "2026-09-26T17:09:15.962Z",
+      "capturedAt": "2026-09-27T17:08:27.600Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -139,7 +139,7 @@
     },
     {
       "id": "e743a2e267a6476a",
-      "capturedAt": "2026-09-26T17:09:15.963Z",
+      "capturedAt": "2026-09-27T17:08:27.600Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -155,7 +155,7 @@
     },
     {
       "id": "cc5d9f0b5c579a04",
-      "capturedAt": "2026-09-26T17:09:15.963Z",
+      "capturedAt": "2026-09-27T17:08:27.600Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -170,7 +170,7 @@
     },
     {
       "id": "c5e3c325d9064e60",
-      "capturedAt": "2026-09-26T17:09:15.963Z",
+      "capturedAt": "2026-09-27T17:08:27.600Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -185,7 +185,7 @@
     },
     {
       "id": "24bb469ee9fe7f0e",
-      "capturedAt": "2026-09-26T17:09:15.963Z",
+      "capturedAt": "2026-09-27T17:08:27.600Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -200,7 +200,7 @@
     },
     {
       "id": "7d8ec6b46217a494",
-      "capturedAt": "2026-09-26T17:09:15.963Z",
+      "capturedAt": "2026-09-27T17:08:27.601Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -215,7 +215,7 @@
     },
     {
       "id": "d1c7358289cb6b2b",
-      "capturedAt": "2026-09-26T17:09:15.963Z",
+      "capturedAt": "2026-09-27T17:08:27.601Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -230,7 +230,7 @@
     },
     {
       "id": "b24bda42e739b25d",
-      "capturedAt": "2026-09-26T17:09:15.963Z",
+      "capturedAt": "2026-09-27T17:08:27.601Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -245,7 +245,7 @@
     },
     {
       "id": "08bcecc18f01432e",
-      "capturedAt": "2026-09-26T17:09:15.963Z",
+      "capturedAt": "2026-09-27T17:08:27.601Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -260,7 +260,7 @@
     },
     {
       "id": "f8088c8dcfb8379d",
-      "capturedAt": "2026-09-26T17:09:15.963Z",
+      "capturedAt": "2026-09-27T17:08:27.601Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -276,7 +276,7 @@
     },
     {
       "id": "ed9ed912da22e655",
-      "capturedAt": "2026-09-26T17:09:15.963Z",
+      "capturedAt": "2026-09-27T17:08:27.601Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -292,7 +292,7 @@
     },
     {
       "id": "a47d2ce0917c96c8",
-      "capturedAt": "2026-09-26T17:09:15.963Z",
+      "capturedAt": "2026-09-27T17:08:27.601Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -307,7 +307,7 @@
     },
     {
       "id": "838ebf03c921cf6c",
-      "capturedAt": "2026-09-26T17:09:17.745Z",
+      "capturedAt": "2026-09-27T17:08:30.005Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -322,7 +322,7 @@
     },
     {
       "id": "48f3c3c252b99dd1",
-      "capturedAt": "2026-09-26T17:09:17.745Z",
+      "capturedAt": "2026-09-27T17:08:30.005Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -338,7 +338,7 @@
     },
     {
       "id": "f0a72bd19e95953c",
-      "capturedAt": "2026-09-26T17:09:17.745Z",
+      "capturedAt": "2026-09-27T17:08:30.005Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -353,7 +353,7 @@
     },
     {
       "id": "5701a568cb0b0e72",
-      "capturedAt": "2026-09-26T17:09:17.745Z",
+      "capturedAt": "2026-09-27T17:08:30.005Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -368,7 +368,7 @@
     },
     {
       "id": "ecae189699139ddb",
-      "capturedAt": "2026-09-26T17:09:17.745Z",
+      "capturedAt": "2026-09-27T17:08:30.005Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -383,7 +383,7 @@
     },
     {
       "id": "7ffd8a86704b165e",
-      "capturedAt": "2026-09-26T17:09:17.745Z",
+      "capturedAt": "2026-09-27T17:08:30.005Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -398,7 +398,7 @@
     },
     {
       "id": "23e1cd1a14d419a2",
-      "capturedAt": "2026-09-26T17:09:17.745Z",
+      "capturedAt": "2026-09-27T17:08:30.005Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -413,7 +413,7 @@
     },
     {
       "id": "29fbeb3c48488bc8",
-      "capturedAt": "2026-09-26T17:09:17.745Z",
+      "capturedAt": "2026-09-27T17:08:30.005Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -428,7 +428,7 @@
     },
     {
       "id": "076230e8e8ddb4e5",
-      "capturedAt": "2026-09-26T17:09:17.745Z",
+      "capturedAt": "2026-09-27T17:08:30.005Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -444,7 +444,7 @@
     },
     {
       "id": "e6854eee4ecc9175",
-      "capturedAt": "2026-09-26T17:09:17.746Z",
+      "capturedAt": "2026-09-27T17:08:30.006Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -459,7 +459,7 @@
     },
     {
       "id": "f0bded36b99108bd",
-      "capturedAt": "2026-09-26T17:09:17.746Z",
+      "capturedAt": "2026-09-27T17:08:30.006Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -474,7 +474,7 @@
     },
     {
       "id": "a5965f80bcf65681",
-      "capturedAt": "2026-09-26T17:09:17.746Z",
+      "capturedAt": "2026-09-27T17:08:30.006Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -489,7 +489,7 @@
     },
     {
       "id": "248b1129c682fbfe",
-      "capturedAt": "2026-09-26T17:09:17.746Z",
+      "capturedAt": "2026-09-27T17:08:30.006Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -504,7 +504,7 @@
     },
     {
       "id": "99ae311dd3344b30",
-      "capturedAt": "2026-09-26T17:09:17.746Z",
+      "capturedAt": "2026-09-27T17:08:30.006Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -519,7 +519,7 @@
     },
     {
       "id": "fe0802f46aa242cb",
-      "capturedAt": "2026-09-26T17:09:17.746Z",
+      "capturedAt": "2026-09-27T17:08:30.006Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -534,7 +534,7 @@
     },
     {
       "id": "25cc833a2eeef1f3",
-      "capturedAt": "2026-09-26T17:09:19.060Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -550,7 +550,7 @@
     },
     {
       "id": "e827c97e9bf710ef",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -566,7 +566,7 @@
     },
     {
       "id": "ba1d847586470394",
-      "capturedAt": "2026-09-26T17:09:19.060Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -583,7 +583,7 @@
     },
     {
       "id": "db649ffe7b18a432",
-      "capturedAt": "2026-09-26T17:09:19.060Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -600,7 +600,7 @@
     },
     {
       "id": "986d73a424ee7575",
-      "capturedAt": "2026-09-26T17:09:19.060Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -615,7 +615,7 @@
     },
     {
       "id": "1333604a053351ee",
-      "capturedAt": "2026-09-26T17:09:19.061Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -632,7 +632,7 @@
     },
     {
       "id": "986b063cfff17898",
-      "capturedAt": "2026-09-26T17:09:19.061Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -648,7 +648,7 @@
     },
     {
       "id": "368603bd2729b43c",
-      "capturedAt": "2026-09-26T17:09:19.061Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -664,7 +664,7 @@
     },
     {
       "id": "01805759a3812078",
-      "capturedAt": "2026-09-26T17:09:19.061Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -680,7 +680,7 @@
     },
     {
       "id": "755243b3fdb61031",
-      "capturedAt": "2026-09-26T17:09:19.061Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -696,7 +696,7 @@
     },
     {
       "id": "8a43cade4cdb28b2",
-      "capturedAt": "2026-09-26T17:09:19.061Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -712,7 +712,7 @@
     },
     {
       "id": "2f4ab6567badf070",
-      "capturedAt": "2026-09-26T17:09:19.061Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -729,7 +729,7 @@
     },
     {
       "id": "465f827233bf4840",
-      "capturedAt": "2026-09-26T17:09:19.061Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -746,7 +746,7 @@
     },
     {
       "id": "06114af912f57990",
-      "capturedAt": "2026-09-26T17:09:19.061Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -762,7 +762,7 @@
     },
     {
       "id": "2b7491836d375a44",
-      "capturedAt": "2026-09-26T17:09:19.061Z",
+      "capturedAt": "2026-09-27T17:08:31.667Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -777,7 +777,7 @@
     },
     {
       "id": "d410a23ec0600e89",
-      "capturedAt": "2026-09-26T17:09:24.350Z",
+      "capturedAt": "2026-09-27T17:08:36.948Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -792,7 +792,7 @@
     },
     {
       "id": "fd3f07c4af89d42b",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.948Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -808,7 +808,7 @@
     },
     {
       "id": "ac808134056b45aa",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -823,7 +823,7 @@
     },
     {
       "id": "e903e0d53e2613b6",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -841,7 +841,7 @@
     },
     {
       "id": "32640c37d28ee339",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -856,7 +856,7 @@
     },
     {
       "id": "01a3affe32773844",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -872,7 +872,7 @@
     },
     {
       "id": "8920ecbae34e6a11",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -889,7 +889,7 @@
     },
     {
       "id": "457825ac686662c7",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -904,7 +904,7 @@
     },
     {
       "id": "1127e8eeb82495e9",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -919,7 +919,7 @@
     },
     {
       "id": "5e1d948109601c40",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -935,7 +935,7 @@
     },
     {
       "id": "793c3a61ef71184a",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -950,7 +950,7 @@
     },
     {
       "id": "f100626c9f12ed9c",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -965,7 +965,7 @@
     },
     {
       "id": "db7eebb77e38ff31",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -980,7 +980,7 @@
     },
     {
       "id": "4ed2acceeeb03455",
-      "capturedAt": "2026-09-26T17:09:24.351Z",
+      "capturedAt": "2026-09-27T17:08:36.949Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -996,7 +996,7 @@
     },
     {
       "id": "9aad97e3814dc037",
-      "capturedAt": "2026-09-26T17:09:30.134Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": "0ac2cb38f912dfb7",
-      "capturedAt": "2026-09-26T17:09:30.134Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1026,7 +1026,7 @@
     },
     {
       "id": "cd88f06faf8883e7",
-      "capturedAt": "2026-09-26T17:09:30.134Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1041,7 +1041,7 @@
     },
     {
       "id": "cb98a463d1f6ca10",
-      "capturedAt": "2026-09-26T17:09:30.134Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1056,7 +1056,7 @@
     },
     {
       "id": "a4eecb271bc639f9",
-      "capturedAt": "2026-09-26T17:09:30.134Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "cd81e07dd67df2d6",
-      "capturedAt": "2026-09-26T17:09:30.134Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1086,7 +1086,7 @@
     },
     {
       "id": "946bdbabf7aa0f2f",
-      "capturedAt": "2026-09-26T17:09:30.134Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": "1f1c8e2342137a6c",
-      "capturedAt": "2026-09-26T17:09:30.134Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1116,7 +1116,7 @@
     },
     {
       "id": "4b3b81d6e0871ab6",
-      "capturedAt": "2026-09-26T17:09:30.135Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1131,7 +1131,7 @@
     },
     {
       "id": "e5ef3a79a86149c7",
-      "capturedAt": "2026-09-26T17:09:30.135Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1146,7 +1146,7 @@
     },
     {
       "id": "48388a2cd9c708e3",
-      "capturedAt": "2026-09-26T17:09:30.135Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1161,7 +1161,7 @@
     },
     {
       "id": "e8d14e28a8778b79",
-      "capturedAt": "2026-09-26T17:09:30.135Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1176,7 +1176,7 @@
     },
     {
       "id": "b2e76ceb639c4d02",
-      "capturedAt": "2026-09-26T17:09:30.135Z",
+      "capturedAt": "2026-09-27T17:08:42.937Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": "de63167c7655afa8",
-      "capturedAt": "2026-09-26T17:09:33.986Z",
+      "capturedAt": "2026-09-27T17:08:47.472Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
@@ -1206,7 +1206,7 @@
     },
     {
       "id": "94288dce42a39265",
-      "capturedAt": "2026-09-26T17:09:33.986Z",
+      "capturedAt": "2026-09-27T17:08:47.472Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
@@ -1221,7 +1221,7 @@
     },
     {
       "id": "2b243866fb1ba660",
-      "capturedAt": "2026-09-26T17:09:33.986Z",
+      "capturedAt": "2026-09-27T17:08:47.472Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
@@ -1236,7 +1236,7 @@
     },
     {
       "id": "f1ab4f6e70e8078f",
-      "capturedAt": "2026-09-26T17:09:33.986Z",
+      "capturedAt": "2026-09-27T17:08:47.472Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
@@ -1251,7 +1251,7 @@
     },
     {
       "id": "92b4f374d82bc04e",
-      "capturedAt": "2026-09-26T17:09:33.986Z",
+      "capturedAt": "2026-09-27T17:08:47.472Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "d86c32e780b99964",
-      "capturedAt": "2026-09-26T17:09:33.986Z",
+      "capturedAt": "2026-09-27T17:08:47.472Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
