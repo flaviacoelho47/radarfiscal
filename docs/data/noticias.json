@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T03:09:44.627Z",
+  "updatedAt": "2026-11-25T01:15:32.876Z",
   "sources": [
     {
       "id": "contabeis",
@@ -10,7 +10,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=contabeis.com.br&sz=128",
       "portal": "https://www.contabeis.com.br/forum/3/tributos-federais/",
       "count": 15,
-      "lastUpdated": "2026-11-24T03:09:24.734Z",
+      "lastUpdated": "2026-11-25T01:15:15.157Z",
       "error": ""
     },
     {
@@ -22,7 +22,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=gov.br&sz=128",
       "portal": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias",
       "count": 15,
-      "lastUpdated": "2026-11-24T03:09:26.549Z",
+      "lastUpdated": "2026-11-25T01:15:16.317Z",
       "error": ""
     },
     {
@@ -34,7 +34,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=noticias.iob.com.br&sz=128",
       "portal": "https://noticias.iob.com.br/editoria/reforma-tributaria/direto-de-brasilia/",
       "count": 15,
-      "lastUpdated": "2026-11-24T03:09:32.424Z",
+      "lastUpdated": "2026-11-25T01:15:22.168Z",
       "error": ""
     },
     {
@@ -46,7 +46,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=noticias.iob.com.br&sz=128",
       "portal": "https://noticias.iob.com.br/editoria/tributaria-fiscal/",
       "count": 15,
-      "lastUpdated": "2026-11-24T03:09:37.917Z",
+      "lastUpdated": "2026-11-25T01:15:28.084Z",
       "error": ""
     },
     {
@@ -57,8 +57,8 @@
       "description": "Notícias oficiais do Comitê Gestor do IBS.",
       "logo": "https://www.google.com/s2/favicons?domain=cgibs.gov.br&sz=128",
       "portal": "https://www.cgibs.gov.br/noticias",
-      "count": 13,
-      "lastUpdated": "2026-11-24T03:09:44.001Z",
+      "count": 12,
+      "lastUpdated": "2026-11-25T01:15:32.374Z",
       "error": ""
     },
     {
@@ -70,14 +70,121 @@
       "logo": "https://www.google.com/s2/favicons?domain=jota.info&sz=128",
       "portal": "https://www.jota.info/tributos",
       "count": 6,
-      "lastUpdated": "2026-11-24T03:09:44.627Z",
+      "lastUpdated": "2026-11-25T01:15:32.875Z",
       "error": ""
     }
   ],
   "news": [
     {
+      "id": "60338fba90edaa92",
+      "capturedAt": "2026-11-25T01:15:14.269Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "classificação PGFN",
+      "summary": "Boa tarde. Alguem ja solicitou reclassifica o no REGULARIZE para possibilitar mais descontos em rela o a capacidade de pagamento d empresa? Se puderem me ajudar agradeo ... Veja as 2 respostas.",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/416198/classificacao-pgfn/",
+      "publishedAt": "Tue, 24 Nov 2026 18:25:05 -0300",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "4db647a5c57cfcb0",
+      "capturedAt": "2026-11-25T01:15:14.270Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Erro na Serie da DPS Emissão no Portal Nacional",
+      "summary": "Estou com problema na emiss o para emiss o de NFS no portal nacional onde informa que a s rie da DPS n o pertence a faixa, s que em janeiroest vamos emitindo com a s rie ... Veja as 8 respostas.",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/412713/erro-na-serie-da-dps-emissao-no-portal-nacional/",
+      "publishedAt": "Tue, 24 Nov 2026 15:31:01 -0300",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "f50fa366bec37499",
+      "capturedAt": "2026-11-25T01:15:14.270Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "Transferência de imóveis para Holding",
+      "summary": "Boa tarde aos colegas, Duvida referente a transfer ncia de Im veis para uma futura Holding. Na transfer ncia de Im veis Totalmente depreciado para uma Holding de investimentos, essa capitaliza o ... Veja as 2 respostas.",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/414864/transferencia-de-imoveis-para-holding/",
+      "publishedAt": "Tue, 24 Nov 2026 14:34:48 -0300",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "dadfb0e077701a98",
+      "capturedAt": "2026-11-25T01:15:14.270Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "PGDAS SOBRE A FOLHA",
+      "summary": "Boa tarde11Estou numa duvida tremenda, tenho que informar FS12 dos ltimos meses, ou s per odo 11-2026 e 12-2026?. ... Veja as 3 respostas.",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/416197/pgdas-sobre-a-folha/",
+      "publishedAt": "Tue, 24 Nov 2026 13:41:53 -0300",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "1f4aa7062aee6110",
+      "capturedAt": "2026-11-25T01:15:14.270Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "PIS/COFINS",
+      "summary": "Prezados, bom dia!O CEO da empresa que trabalho nos orientou a recolher PIS e COFINS sobre aplica o financeira da seguinte forma:Sobre os rendimentos do m s e sobre o saldo a resgatar, est correto? ...",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/416192/pis-cofins/",
+      "publishedAt": "Tue, 24 Nov 2026 11:07:38 -0300",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "67766f2387a2cb76",
+      "capturedAt": "2026-11-25T01:15:14.270Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "DESENQUADRAMENTO DENTRO DO NOVO LIMITE DO MEI",
+      "summary": "Caso o Mei ultrapassou em 2026 o teto de 81.000 por m se manteve dentro dos 110.000 que entrar em vigor em Janeiro de 2027, mesmo sendo desenquadrado... pode solicitar retorno para o Simei em Janeiro ... Veja as 6 respostas.",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/416060/desenquadramento-dentro-do-novo-limite-do-mei/",
+      "publishedAt": "Tue, 24 Nov 2026 10:38:49 -0300",
+      "themes": [
+        "Simples Nacional",
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "639ec128a897f180",
+      "capturedAt": "2026-11-25T01:15:14.270Z",
+      "sourceId": "contabeis",
+      "sourceBrand": "Contábeis",
+      "sourceName": "Portal Contábeis",
+      "category": "Tributos Federais",
+      "title": "SIMPLES x LUCRO PRESUMIDO",
+      "summary": "Bom dia.Uma empresa foi desenquadra do Simples Nacional em dezembro/2024. Houve um pedido de reenquadramento em janeiro/2025, e o processo ficou em pend ncia, e trata-se de um processo federal. A empresa continuou a ... Veja as 4 respostas.",
+      "url": "https://www.contabeis.com.br/forum/tributos-federais/416162/simples-x-lucro-presumido/",
+      "publishedAt": "Tue, 24 Nov 2026 09:02:07 -0300",
+      "themes": [
+        "Simples Nacional",
+        "Tributos Federais"
+      ]
+    },
+    {
       "id": "b07fb83afe705363",
-      "capturedAt": "2026-11-24T03:09:23.491Z",
+      "capturedAt": "2026-11-25T01:15:14.270Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -92,7 +199,7 @@
     },
     {
       "id": "01b4928b5776957e",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
+      "capturedAt": "2026-11-25T01:15:14.270Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -107,7 +214,7 @@
     },
     {
       "id": "c5390d68110899ac",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
+      "capturedAt": "2026-11-25T01:15:14.270Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -124,7 +231,7 @@
     },
     {
       "id": "db22b2fad14c0a83",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
+      "capturedAt": "2026-11-25T01:15:14.271Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -140,7 +247,7 @@
     },
     {
       "id": "8f01c0128a6c4a31",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
+      "capturedAt": "2026-11-25T01:15:14.271Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -157,7 +264,7 @@
     },
     {
       "id": "3836a2be9e722872",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
+      "capturedAt": "2026-11-25T01:15:14.271Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -172,7 +279,7 @@
     },
     {
       "id": "5a772e7bb577f06c",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
+      "capturedAt": "2026-11-25T01:15:14.271Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -187,7 +294,7 @@
     },
     {
       "id": "851486a5b8727c43",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
+      "capturedAt": "2026-11-25T01:15:14.271Z",
       "sourceId": "contabeis",
       "sourceBrand": "Contábeis",
       "sourceName": "Portal Contábeis",
@@ -201,119 +308,70 @@
       ]
     },
     {
-      "id": "a669efb1c2fae1e4",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
-      "sourceId": "contabeis",
-      "sourceBrand": "Contábeis",
-      "sourceName": "Portal Contábeis",
-      "category": "Tributos Federais",
-      "title": "Abater ou Reduzir Multas e Juros - Processo Administrativo Digital",
-      "summary": "Cliente m dico com CNPJ Simples Nacional (Fator R). O antigo contador estava declarando errado durante 3 anos (anexo 4). Fiz as corre es e indiquei parcelamento da diferen a de valores ...",
-      "url": "https://www.contabeis.com.br/forum/tributos-federais/416179/abater-ou-reduzir-multas-e-juros-processo-administrativo-digital/",
-      "publishedAt": "Mon, 23 Nov 2026 09:40:28 -0300",
+      "id": "4f1a0bf4207a1a0f",
+      "capturedAt": "2026-11-25T01:15:15.730Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Receita Federal e Polícia Federal apreendem meia tonelada de carne in natura na região da Ponte Tancredo Neves",
+      "summary": "A carga, avaliada em aproximadamente R$ 50 mil, estava dividida em 21 caixas transportadas em um veículo cujo motorista tentou fugir da fiscalização.",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-policia-federal-apreendem-meia-tonelada-de-carne-in-natura-na-regiao-da-ponte-tancredo-neves",
+      "publishedAt": "",
       "themes": [
+        "Simples Nacional"
+      ]
+    },
+    {
+      "id": "1c9e090c35d5b183",
+      "capturedAt": "2026-11-25T01:15:15.730Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "COMUNICADO - Receita Federal avança na contratação da FGV para organização de novo concurso da Carreira Tributária e Aduaneira",
+      "summary": "Publicação de ato no PNCP autoriza a contratação direta da Fundação Getulio Vargas e marca mais uma etapa do processo que antecede a divulgação do edital.",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comunicado-receita-federal-avanca-na-contratacao-da-fgv-para-organizacao-de-novo-concurso-da-carreira-tributaria-e-aduaneira",
+      "publishedAt": "",
+      "themes": [
+        "Tributos Federais"
+      ]
+    },
+    {
+      "id": "8b408774ce4d408a",
+      "capturedAt": "2026-11-25T01:15:15.730Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária",
+      "summary": "As mudanças envolvem procedimentos de declaração, apuração de receitas, repartição dos tributos e adaptações necessárias para a transição ao novo modelo tributário.",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
+      "publishedAt": "",
+      "themes": [
+        "Reforma Tributária",
         "Simples Nacional",
         "Tributos Federais"
       ]
     },
     {
-      "id": "863b69a0db0a7ad8",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
-      "sourceId": "contabeis",
-      "sourceBrand": "Contábeis",
-      "sourceName": "Portal Contábeis",
-      "category": "Tributos Federais",
-      "title": "Nota Técnica 2026.005 - Versão 1.00",
-      "summary": "Bom dia a todos (as) gostaria de saber, se alguem tem algum entendimento claro a respeito dessa nota tecnica referente aos impostos do IBS e CBS, que ser o destacados nos documentos fiscais das empresas do simples ... Veja as 4 respostas.",
-      "url": "https://www.contabeis.com.br/forum/tributos-federais/416101/nota-tecnica-2026-005-versao-1-00/",
-      "publishedAt": "Mon, 23 Nov 2026 00:25:41 -0300",
-      "themes": [
-        "IBS/CBS",
-        "Tributos Federais"
-      ]
-    },
-    {
-      "id": "c3fffe2dca57e576",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
-      "sourceId": "contabeis",
-      "sourceBrand": "Contábeis",
-      "sourceName": "Portal Contábeis",
-      "category": "Tributos Federais",
-      "title": "IBS/CBS na NF-e: como conferir se seus fornecedores já emitem com os campos novos",
-      "summary": "Ol , pessoal!Desde 03/08/2026 o preenchimento do grupo de IBS e CBS passou a ser obrigat rio na NF-e e na NFC-e do regime normal. Como a rejei o por aus ncia dos campos ainda est ... Veja as 3 respostas.",
-      "url": "https://www.contabeis.com.br/forum/tributos-federais/416018/ibs-cbs-na-nf-e-como-conferir-se-seus-fornecedores-ja-emitem-com-os-campos-novos/",
-      "publishedAt": "Sun, 22 Nov 2026 23:42:26 -0300",
-      "themes": [
-        "IBS/CBS",
-        "Tributos Federais",
-        "NF-e/SPED"
-      ]
-    },
-    {
-      "id": "cc6977894ada07da",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
-      "sourceId": "contabeis",
-      "sourceBrand": "Contábeis",
-      "sourceName": "Portal Contábeis",
-      "category": "Tributos Federais",
-      "title": "EFD-Reinf - Nao Residente",
-      "summary": "Prezados, Sou pessoa f sica n o residente fiscal no Brasil e recebo rendimentos de aluguel pagos por uma pessoa f sica residente no Brasil. O recolhimento do imposto devido j foi efetuado por ...",
-      "url": "https://www.contabeis.com.br/forum/tributos-federais/416178/efd-reinf-nao-residente/",
-      "publishedAt": "Sun, 22 Nov 2026 23:37:22 -0300",
-      "themes": [
-        "Tributos Federais"
-      ]
-    },
-    {
-      "id": "639ec128a897f180",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
-      "sourceId": "contabeis",
-      "sourceBrand": "Contábeis",
-      "sourceName": "Portal Contábeis",
-      "category": "Tributos Federais",
-      "title": "SIMPLES x LUCRO PRESUMIDO",
-      "summary": "Bom dia.Uma empresa foi desenquadra do Simples Nacional em dezembro/2024. Houve um pedido de reenquadramento em janeiro/2025, e o processo ficou em pend ncia, e trata-se de um processo federal. A empresa continuou a ... Veja as 3 respostas.",
-      "url": "https://www.contabeis.com.br/forum/tributos-federais/416162/simples-x-lucro-presumido/",
-      "publishedAt": "Sat, 21 Nov 2026 23:48:00 -0300",
-      "themes": [
-        "Simples Nacional",
-        "Tributos Federais"
-      ]
-    },
-    {
-      "id": "ddca462768881e4d",
-      "capturedAt": "2026-11-24T03:09:23.492Z",
-      "sourceId": "contabeis",
-      "sourceBrand": "Contábeis",
-      "sourceName": "Portal Contábeis",
-      "category": "Tributos Federais",
-      "title": "Pessoa fisica - imoveis",
-      "summary": "Prezados, bom dia.Gostaria de solicitar orienta o sobre as disposi es da Lei Complementar n 214/2025, especialmente quanto incid ncia do IBS e da CBS sobre as opera es ...",
-      "url": "https://www.contabeis.com.br/forum/tributos-federais/416175/pessoa-fisica-imoveis/",
-      "publishedAt": "Fri, 20 Nov 2026 11:07:42 -0300",
-      "themes": [
-        "IBS/CBS",
-        "Tributos Federais"
-      ]
-    },
-    {
-      "id": "6c8cf9411ed289a8",
-      "capturedAt": "2026-11-24T03:09:23.493Z",
-      "sourceId": "contabeis",
-      "sourceBrand": "Contábeis",
-      "sourceName": "Portal Contábeis",
-      "category": "Tributos Federais",
-      "title": "produtor rural",
-      "summary": "bom dia, gostaria de tirar umas duvidas um produtor rural pessoa fisica ultrapassou o limte de faturamento em outubro de 3.600.000,00 minha duvida o que pode acontecer ?ele vai ter que pagar CBS e IBS ?abrir um CNPJ ... Veja as 2 respostas.",
-      "url": "https://www.contabeis.com.br/forum/tributos-federais/416165/produtor-rural/",
-      "publishedAt": "Thu, 19 Nov 2026 18:11:53 -0300",
+      "id": "b9a3585e6bc6a0c4",
+      "capturedAt": "2026-11-25T01:15:15.730Z",
+      "sourceId": "receita",
+      "sourceBrand": "Receita Federal",
+      "sourceName": "Receita Federal",
+      "category": "Notícias Oficiais",
+      "title": "COMUNICADO – Regularização do envio de mensagens pela Caixa Postal",
+      "summary": "Mensagens que não ficaram disponíveis para consulta entre 9 e 11 de novembro serão reenviadas pela Caixa Postal; demais comunicações não foram afetadas.",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comunicado-2013-regularizacao-do-envio-de-mensagens-pela-caixa-postal",
+      "publishedAt": "",
       "themes": [
         "Tributos Federais"
       ]
     },
     {
       "id": "8e3256fb9b1deba7",
-      "capturedAt": "2026-11-24T03:09:25.638Z",
+      "capturedAt": "2026-11-25T01:15:15.730Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -328,7 +386,7 @@
     },
     {
       "id": "2a99c756864fa360",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
+      "capturedAt": "2026-11-25T01:15:15.730Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -343,7 +401,7 @@
     },
     {
       "id": "cc5446b47768233d",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
+      "capturedAt": "2026-11-25T01:15:15.730Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -358,7 +416,7 @@
     },
     {
       "id": "992c2812d96e3548",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
+      "capturedAt": "2026-11-25T01:15:15.730Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -373,7 +431,7 @@
     },
     {
       "id": "d144976fd3f1ff21",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
+      "capturedAt": "2026-11-25T01:15:15.730Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -388,7 +446,7 @@
     },
     {
       "id": "124a2f6acc3696e0",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
+      "capturedAt": "2026-11-25T01:15:15.731Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -403,7 +461,7 @@
     },
     {
       "id": "395f16cf931f05b1",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
+      "capturedAt": "2026-11-25T01:15:15.731Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -419,13 +477,13 @@
     },
     {
       "id": "df08699eea3a7394",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
+      "capturedAt": "2026-11-25T01:15:15.731Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
       "category": "Notícias Oficiais",
       "title": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais",
-      "summary": "Profissionais de contabilidade têm papel relevante na promoção da conformidade tributária.",
+      "summary": "iv class=\"subtitulo-noticia\">Tributação <img class=\"newsImage\" src=\"https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaque-de-cbs-ibs-em-documentos-fiscais/rtv-banner-site.png/@@images/image/mi",
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
       "publishedAt": "",
       "themes": [
@@ -435,7 +493,7 @@
     },
     {
       "id": "ba3f0fca175000ca",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
+      "capturedAt": "2026-11-25T01:15:15.731Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -450,7 +508,7 @@
     },
     {
       "id": "e71c3d56c39155c0",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
+      "capturedAt": "2026-11-25T01:15:15.731Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -465,7 +523,7 @@
     },
     {
       "id": "4cb13bb3ea5a55da",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
+      "capturedAt": "2026-11-25T01:15:15.731Z",
       "sourceId": "receita",
       "sourceBrand": "Receita Federal",
       "sourceName": "Receita Federal",
@@ -481,69 +539,8 @@
       ]
     },
     {
-      "id": "234335b543d580dd",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
-      "sourceId": "receita",
-      "sourceBrand": "Receita Federal",
-      "sourceName": "Receita Federal",
-      "category": "Notícias Oficiais",
-      "title": "A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-      "summary": "Após o processamento dos pedidos, foram registradas mais de 657 mil solicitações pelo Simples Nacional e 1 milhão pelo regime regular do IBS e da CBS.",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
-      "publishedAt": "",
-      "themes": [
-        "IBS/CBS",
-        "Simples Nacional"
-      ]
-    },
-    {
-      "id": "f108c49b4a2db588",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
-      "sourceId": "receita",
-      "sourceBrand": "Receita Federal",
-      "sourceName": "Receita Federal",
-      "category": "Notícias Oficiais",
-      "title": "Receita Federal e MPF detalham esquema revelado durante operação Cash Out",
-      "summary": "Grupo do ramo de apostas teria movimentado mais de R$ 11 bilhões em 2025 e ocultado da fiscalização cerca de R$ 9 bilhões.",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-mpf-detalham-esquema-revelado-durante-operacao-cash-out",
-      "publishedAt": "",
-      "themes": [
-        "Tributos Federais"
-      ]
-    },
-    {
-      "id": "5977a8109e250644",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
-      "sourceId": "receita",
-      "sourceBrand": "Receita Federal",
-      "sourceName": "Receita Federal",
-      "category": "Notícias Oficiais",
-      "title": "Receita Federal apreende mais de R$ 1,5 milhão em mercadorias na BR-101, em Santa Catarina",
-      "summary": "Ação de combate ao contrabando e ao descaminho resultou na retenção de eletrônicos, perfumes, cigarros eletrônicos e cigarros transportados em ônibus de turismo .",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-apreende-mais-de-r-1-5-milhao-em-mercadorias-na-br-101-em-santa-catarina",
-      "publishedAt": "",
-      "themes": [
-        "Tributos Federais"
-      ]
-    },
-    {
-      "id": "455a3e5eae208fd8",
-      "capturedAt": "2026-11-24T03:09:25.639Z",
-      "sourceId": "receita",
-      "sourceBrand": "Receita Federal",
-      "sourceName": "Receita Federal",
-      "category": "Notícias Oficiais",
-      "title": "Receita Federal participa de solenidade de entrega de helicópteros à Base Sul da PF em Maringá/PR",
-      "summary": "Aeronaves reforçam a estrutura da unidade, inaugurada em março deste ano, que contou com a contribuição da Receita Federal para sua implantação.",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-participa-de-solenidade-de-entrega-de-helicopteros-a-base-sul-da-pf-em-maringa-pr",
-      "publishedAt": "",
-      "themes": [
-        "Tributos Federais"
-      ]
-    },
-    {
       "id": "36030b3d0d1dade5",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -560,7 +557,7 @@
     },
     {
       "id": "0ab7b0aa5d7b76a7",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -575,7 +572,7 @@
     },
     {
       "id": "25cc833a2eeef1f3",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -591,7 +588,7 @@
     },
     {
       "id": "ba1d847586470394",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -608,7 +605,7 @@
     },
     {
       "id": "db649ffe7b18a432",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -625,7 +622,7 @@
     },
     {
       "id": "986d73a424ee7575",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -640,7 +637,7 @@
     },
     {
       "id": "1333604a053351ee",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -657,7 +654,7 @@
     },
     {
       "id": "986b063cfff17898",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -673,7 +670,7 @@
     },
     {
       "id": "368603bd2729b43c",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -689,7 +686,7 @@
     },
     {
       "id": "01805759a3812078",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -705,7 +702,7 @@
     },
     {
       "id": "755243b3fdb61031",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -721,7 +718,7 @@
     },
     {
       "id": "8a43cade4cdb28b2",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -737,7 +734,7 @@
     },
     {
       "id": "2f4ab6567badf070",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -754,7 +751,7 @@
     },
     {
       "id": "465f827233bf4840",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -771,7 +768,7 @@
     },
     {
       "id": "06114af912f57990",
-      "capturedAt": "2026-11-24T03:09:28.627Z",
+      "capturedAt": "2026-11-25T01:15:18.201Z",
       "sourceId": "iob-r",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Reforma Tributária",
@@ -787,7 +784,7 @@
     },
     {
       "id": "d43d9d46fa9ba226",
-      "capturedAt": "2026-11-24T03:09:34.224Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -802,7 +799,7 @@
     },
     {
       "id": "d410a23ec0600e89",
-      "capturedAt": "2026-11-24T03:09:34.224Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -817,7 +814,7 @@
     },
     {
       "id": "fd3f07c4af89d42b",
-      "capturedAt": "2026-11-24T03:09:34.224Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -833,7 +830,7 @@
     },
     {
       "id": "ac808134056b45aa",
-      "capturedAt": "2026-11-24T03:09:34.224Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -848,7 +845,7 @@
     },
     {
       "id": "e903e0d53e2613b6",
-      "capturedAt": "2026-11-24T03:09:34.224Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -866,7 +863,7 @@
     },
     {
       "id": "32640c37d28ee339",
-      "capturedAt": "2026-11-24T03:09:34.225Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -881,7 +878,7 @@
     },
     {
       "id": "01a3affe32773844",
-      "capturedAt": "2026-11-24T03:09:34.225Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -897,7 +894,7 @@
     },
     {
       "id": "8920ecbae34e6a11",
-      "capturedAt": "2026-11-24T03:09:34.225Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -914,7 +911,7 @@
     },
     {
       "id": "457825ac686662c7",
-      "capturedAt": "2026-11-24T03:09:34.225Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -929,7 +926,7 @@
     },
     {
       "id": "1127e8eeb82495e9",
-      "capturedAt": "2026-11-24T03:09:34.225Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -944,7 +941,7 @@
     },
     {
       "id": "5e1d948109601c40",
-      "capturedAt": "2026-11-24T03:09:34.225Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -960,7 +957,7 @@
     },
     {
       "id": "793c3a61ef71184a",
-      "capturedAt": "2026-11-24T03:09:34.225Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -975,7 +972,7 @@
     },
     {
       "id": "f100626c9f12ed9c",
-      "capturedAt": "2026-11-24T03:09:34.225Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -990,7 +987,7 @@
     },
     {
       "id": "db7eebb77e38ff31",
-      "capturedAt": "2026-11-24T03:09:34.225Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -1005,7 +1002,7 @@
     },
     {
       "id": "4ed2acceeeb03455",
-      "capturedAt": "2026-11-24T03:09:34.225Z",
+      "capturedAt": "2026-11-25T01:15:24.204Z",
       "sourceId": "iob-f",
       "sourceBrand": "IOB",
       "sourceName": "IOB - Tributária/Fiscal",
@@ -1021,7 +1018,7 @@
     },
     {
       "id": "9aad97e3814dc037",
-      "capturedAt": "2026-11-24T03:09:38.979Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1036,7 +1033,7 @@
     },
     {
       "id": "0ac2cb38f912dfb7",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1050,23 +1047,8 @@
       ]
     },
     {
-      "id": "cd88f06faf8883e7",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
-      "sourceId": "cgibs",
-      "sourceBrand": "CGIBS",
-      "sourceName": "CGIBS",
-      "category": "IBS",
-      "title": "Conte do restrito",
-      "summary": "Imprensa",
-      "url": "https://www.cgibs.gov.br/restrito",
-      "publishedAt": "",
-      "themes": [
-        "Tributos Federais"
-      ]
-    },
-    {
       "id": "cb98a463d1f6ca10",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1081,7 +1063,7 @@
     },
     {
       "id": "a4eecb271bc639f9",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1096,7 +1078,7 @@
     },
     {
       "id": "cd81e07dd67df2d6",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1111,7 +1093,7 @@
     },
     {
       "id": "946bdbabf7aa0f2f",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1126,7 +1108,7 @@
     },
     {
       "id": "1f1c8e2342137a6c",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1141,7 +1123,7 @@
     },
     {
       "id": "4b3b81d6e0871ab6",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1156,7 +1138,7 @@
     },
     {
       "id": "e5ef3a79a86149c7",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1171,7 +1153,7 @@
     },
     {
       "id": "48388a2cd9c708e3",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1186,7 +1168,7 @@
     },
     {
       "id": "e8d14e28a8778b79",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1201,7 +1183,7 @@
     },
     {
       "id": "b2e76ceb639c4d02",
-      "capturedAt": "2026-11-24T03:09:38.980Z",
+      "capturedAt": "2026-11-25T01:15:29.849Z",
       "sourceId": "cgibs",
       "sourceBrand": "CGIBS",
       "sourceName": "CGIBS",
@@ -1216,7 +1198,7 @@
     },
     {
       "id": "de63167c7655afa8",
-      "capturedAt": "2026-11-24T03:09:44.150Z",
+      "capturedAt": "2026-11-25T01:15:32.617Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
@@ -1231,7 +1213,7 @@
     },
     {
       "id": "94288dce42a39265",
-      "capturedAt": "2026-11-24T03:09:44.151Z",
+      "capturedAt": "2026-11-25T01:15:32.617Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
@@ -1246,7 +1228,7 @@
     },
     {
       "id": "2b243866fb1ba660",
-      "capturedAt": "2026-11-24T03:09:44.151Z",
+      "capturedAt": "2026-11-25T01:15:32.617Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
@@ -1261,7 +1243,7 @@
     },
     {
       "id": "f1ab4f6e70e8078f",
-      "capturedAt": "2026-11-24T03:09:44.151Z",
+      "capturedAt": "2026-11-25T01:15:32.617Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
@@ -1276,7 +1258,7 @@
     },
     {
       "id": "92b4f374d82bc04e",
-      "capturedAt": "2026-11-24T03:09:44.151Z",
+      "capturedAt": "2026-11-25T01:15:32.617Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
@@ -1291,7 +1273,7 @@
     },
     {
       "id": "d86c32e780b99964",
-      "capturedAt": "2026-11-24T03:09:44.151Z",
+      "capturedAt": "2026-11-25T01:15:32.617Z",
       "sourceId": "jota",
       "sourceBrand": "JOTA",
       "sourceName": "JOTA - Tributos",
